@@ -6,6 +6,6 @@ The toolkit can be downloaded at https://drive.google.com/folderview?id=0B_v9QO2
 
 The toolkit is designed for use in England, Scotland or Wales.
 
-The purpose of this repository is to hold an example development of the toolkit using ArcPy within Python Toolboxes (rather than ModelBuilder), and potentialy with further developement of Python only versions.
+The purpose of this repository is to hold an example development of the toolkit using ArcPy within Python Toolboxes (rather than ModelBuilder), and potentialy with further developement of Python only versions (e.g. to work in situations without access to ArcGIS).
 
 Jonathan Winn - December 2015
